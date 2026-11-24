@@ -1,0 +1,24 @@
+REPORTE DE INFERENCIA — CLASIFICADOR DE MELANOMA (128x128)
+============================================================
+Modo de ejecución : no-buffer
+Total de imágenes : 10
+Peso total (MB)   : 0.09 MB
+Tiempo total lote : 4556.95 ms
+
+ESTADÍSTICAS DE TIEMPO POR IMAGEN (ms)
+  Promedio : 455.24 ms
+  Mediana  : 382.06 ms
+  Mínimo   : 371.91 ms
+  Máximo   : 1114.05 ms
+
+DETALLE POR ARCHIVO
+  1. melanoma_5000.jpg | Melanoma maligno | Maligno: 100.00% | Benigno: 0.00% | 1114.05 ms
+  2. melanoma_5001.jpg | Melanoma maligno | Maligno: 100.00% | Benigno: 0.00% | 386.71 ms
+  3. melanoma_5002.jpg | Melanoma maligno | Maligno: 100.00% | Benigno: 0.00% | 377.14 ms
+  4. melanoma_5003.jpg | Melanoma maligno | Maligno: 87.09% | Benigno: 12.91% | 383.82 ms
+  5. melanoma_5004.jpg | Melanoma maligno | Maligno: 53.39% | Benigno: 46.61% | 400.55 ms
+  6. melanoma_5005.jpg | Melanoma maligno | Maligno: 79.92% | Benigno: 20.08% | 376.74 ms
+  7. melanoma_5006.jpg | Melanoma maligno | Maligno: 98.96% | Benigno: 1.04% | 380.31 ms
+  8. melanoma_5007.jpg | Melanoma maligno | Maligno: 99.44% | Benigno: 0.56% | 384.46 ms
+  9. melanoma_5008.jpg | Melanoma maligno | Maligno: 93.58% | Benigno: 6.42% | 376.66 ms
+  10. melanoma_5009.jpg | Melanoma maligno | Maligno: 97.09% | Benigno: 2.91% | 371.91 ms

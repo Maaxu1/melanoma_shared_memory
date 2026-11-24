@@ -1,0 +1,114 @@
+REPORTE DE INFERENCIA — CLASIFICADOR DE MELANOMA (128x128)
+============================================================
+Modo de ejecución : buffer-disk
+Total de imágenes : 100
+Peso total (MB)   : 0.97 MB
+Tiempo total lote : 250.19 ms
+
+TIEMPOS DE BUFFER (ms)
+  write   : 3.87 ms
+  read    : 0.58 ms
+  cleanup : 0.71 ms
+  total   : 5.16 ms
+
+DETALLE POR ARCHIVO
+  1. melanoma_0.jpg | Melanoma benigno | Maligno: 0.57% | Benigno: 99.43% | 2.5 ms
+  2. melanoma_1.jpg | Melanoma benigno | Maligno: 0.52% | Benigno: 99.48% | 2.5 ms
+  3. melanoma_2.jpg | Melanoma benigno | Maligno: 7.60% | Benigno: 92.40% | 2.5 ms
+  4. melanoma_3.jpg | Melanoma benigno | Maligno: 1.76% | Benigno: 98.24% | 2.5 ms
+  5. melanoma_4.jpg | Melanoma maligno | Maligno: 76.14% | Benigno: 23.86% | 2.5 ms
+  6. melanoma_5.jpg | Melanoma benigno | Maligno: 12.70% | Benigno: 87.30% | 2.5 ms
+  7. melanoma_6.jpg | Melanoma benigno | Maligno: 1.49% | Benigno: 98.51% | 2.5 ms
+  8. melanoma_7.jpg | Melanoma benigno | Maligno: 1.73% | Benigno: 98.27% | 2.5 ms
+  9. melanoma_8.jpg | Melanoma maligno | Maligno: 65.74% | Benigno: 34.26% | 2.5 ms
+  10. melanoma_9.jpg | Melanoma maligno | Maligno: 86.08% | Benigno: 13.92% | 2.5 ms
+  11. melanoma_10.jpg | Melanoma benigno | Maligno: 0.87% | Benigno: 99.13% | 2.5 ms
+  12. melanoma_11.jpg | Melanoma benigno | Maligno: 0.55% | Benigno: 99.45% | 2.5 ms
+  13. melanoma_12.jpg | Melanoma benigno | Maligno: 0.99% | Benigno: 99.01% | 2.5 ms
+  14. melanoma_13.jpg | Melanoma benigno | Maligno: 1.61% | Benigno: 98.39% | 2.5 ms
+  15. melanoma_14.jpg | Melanoma benigno | Maligno: 5.91% | Benigno: 94.09% | 2.5 ms
+  16. melanoma_15.jpg | Melanoma benigno | Maligno: 5.78% | Benigno: 94.22% | 2.5 ms
+  17. melanoma_16.jpg | Melanoma benigno | Maligno: 1.27% | Benigno: 98.73% | 2.5 ms
+  18. melanoma_17.jpg | Melanoma benigno | Maligno: 1.34% | Benigno: 98.66% | 2.5 ms
+  19. melanoma_18.jpg | Melanoma benigno | Maligno: 0.50% | Benigno: 99.50% | 2.5 ms
+  20. melanoma_19.jpg | Melanoma benigno | Maligno: 41.11% | Benigno: 58.89% | 2.5 ms
+  21. melanoma_20.jpg | Melanoma benigno | Maligno: 37.64% | Benigno: 62.36% | 2.5 ms
+  22. melanoma_21.jpg | Melanoma benigno | Maligno: 0.85% | Benigno: 99.15% | 2.5 ms
+  23. melanoma_22.jpg | Melanoma benigno | Maligno: 4.06% | Benigno: 95.94% | 2.5 ms
+  24. melanoma_23.jpg | Melanoma benigno | Maligno: 0.28% | Benigno: 99.72% | 2.5 ms
+  25. melanoma_24.jpg | Melanoma benigno | Maligno: 1.01% | Benigno: 98.99% | 2.5 ms
+  26. melanoma_25.jpg | Melanoma benigno | Maligno: 1.66% | Benigno: 98.34% | 2.5 ms
+  27. melanoma_26.jpg | Melanoma benigno | Maligno: 4.63% | Benigno: 95.37% | 2.5 ms
+  28. melanoma_27.jpg | Melanoma benigno | Maligno: 0.08% | Benigno: 99.92% | 2.5 ms
+  29. melanoma_28.jpg | Melanoma maligno | Maligno: 84.59% | Benigno: 15.41% | 2.5 ms
+  30. melanoma_29.jpg | Melanoma benigno | Maligno: 0.73% | Benigno: 99.27% | 2.5 ms
+  31. melanoma_30.jpg | Melanoma benigno | Maligno: 30.69% | Benigno: 69.31% | 2.5 ms
+  32. melanoma_31.jpg | Melanoma benigno | Maligno: 40.17% | Benigno: 59.83% | 2.5 ms
+  33. melanoma_32.jpg | Melanoma benigno | Maligno: 9.06% | Benigno: 90.94% | 2.5 ms
+  34. melanoma_33.jpg | Melanoma benigno | Maligno: 2.90% | Benigno: 97.10% | 2.5 ms
+  35. melanoma_34.jpg | Melanoma benigno | Maligno: 3.44% | Benigno: 96.56% | 2.5 ms
+  36. melanoma_35.jpg | Melanoma benigno | Maligno: 0.59% | Benigno: 99.41% | 2.5 ms
+  37. melanoma_36.jpg | Melanoma benigno | Maligno: 0.57% | Benigno: 99.43% | 2.5 ms
+  38. melanoma_37.jpg | Melanoma benigno | Maligno: 19.96% | Benigno: 80.04% | 2.5 ms
+  39. melanoma_38.jpg | Melanoma benigno | Maligno: 19.25% | Benigno: 80.75% | 2.5 ms
+  40. melanoma_39.jpg | Melanoma benigno | Maligno: 39.92% | Benigno: 60.08% | 2.5 ms
+  41. melanoma_40.jpg | Melanoma benigno | Maligno: 0.36% | Benigno: 99.64% | 2.5 ms
+  42. melanoma_41.jpg | Melanoma benigno | Maligno: 0.39% | Benigno: 99.61% | 2.5 ms
+  43. melanoma_42.jpg | Melanoma benigno | Maligno: 13.65% | Benigno: 86.35% | 2.5 ms
+  44. melanoma_43.jpg | Melanoma maligno | Maligno: 82.08% | Benigno: 17.92% | 2.5 ms
+  45. melanoma_44.jpg | Melanoma benigno | Maligno: 2.10% | Benigno: 97.90% | 2.5 ms
+  46. melanoma_45.jpg | Melanoma benigno | Maligno: 0.35% | Benigno: 99.65% | 2.5 ms
+  47. melanoma_46.jpg | Melanoma benigno | Maligno: 34.58% | Benigno: 65.42% | 2.5 ms
+  48. melanoma_47.jpg | Melanoma benigno | Maligno: 0.75% | Benigno: 99.25% | 2.5 ms
+  49. melanoma_48.jpg | Melanoma benigno | Maligno: 0.24% | Benigno: 99.76% | 2.5 ms
+  50. melanoma_49.jpg | Melanoma benigno | Maligno: 0.05% | Benigno: 99.95% | 2.5 ms
+  51. melanoma_5000.jpg | Melanoma maligno | Maligno: 100.00% | Benigno: 0.00% | 2.5 ms
+  52. melanoma_5001.jpg | Melanoma maligno | Maligno: 100.00% | Benigno: 0.00% | 2.5 ms
+  53. melanoma_5002.jpg | Melanoma maligno | Maligno: 100.00% | Benigno: 0.00% | 2.5 ms
+  54. melanoma_5003.jpg | Melanoma maligno | Maligno: 87.09% | Benigno: 12.91% | 2.5 ms
+  55. melanoma_5004.jpg | Melanoma maligno | Maligno: 53.39% | Benigno: 46.61% | 2.5 ms
+  56. melanoma_5005.jpg | Melanoma maligno | Maligno: 79.92% | Benigno: 20.08% | 2.5 ms
+  57. melanoma_5006.jpg | Melanoma maligno | Maligno: 98.96% | Benigno: 1.04% | 2.5 ms
+  58. melanoma_5007.jpg | Melanoma maligno | Maligno: 99.44% | Benigno: 0.56% | 2.5 ms
+  59. melanoma_5008.jpg | Melanoma maligno | Maligno: 93.58% | Benigno: 6.42% | 2.5 ms
+  60. melanoma_5009.jpg | Melanoma maligno | Maligno: 97.09% | Benigno: 2.91% | 2.5 ms
+  61. melanoma_5010.jpg | Melanoma maligno | Maligno: 98.49% | Benigno: 1.51% | 2.5 ms
+  62. melanoma_5011.jpg | Melanoma benigno | Maligno: 26.11% | Benigno: 73.89% | 2.5 ms
+  63. melanoma_5012.jpg | Melanoma maligno | Maligno: 98.44% | Benigno: 1.56% | 2.5 ms
+  64. melanoma_5013.jpg | Melanoma maligno | Maligno: 100.00% | Benigno: 0.00% | 2.5 ms
+  65. melanoma_5014.jpg | Melanoma maligno | Maligno: 96.72% | Benigno: 3.28% | 2.5 ms
+  66. melanoma_5015.jpg | Melanoma maligno | Maligno: 98.22% | Benigno: 1.78% | 2.5 ms
+  67. melanoma_5016.jpg | Melanoma maligno | Maligno: 90.57% | Benigno: 9.43% | 2.5 ms
+  68. melanoma_5017.jpg | Melanoma maligno | Maligno: 86.74% | Benigno: 13.26% | 2.5 ms
+  69. melanoma_5018.jpg | Melanoma maligno | Maligno: 86.13% | Benigno: 13.87% | 2.5 ms
+  70. melanoma_5019.jpg | Melanoma maligno | Maligno: 98.63% | Benigno: 1.37% | 2.5 ms
+  71. melanoma_5020.jpg | Melanoma maligno | Maligno: 100.00% | Benigno: 0.00% | 2.5 ms
+  72. melanoma_5021.jpg | Melanoma maligno | Maligno: 97.47% | Benigno: 2.53% | 2.5 ms
+  73. melanoma_5022.jpg | Melanoma maligno | Maligno: 90.73% | Benigno: 9.27% | 2.5 ms
+  74. melanoma_5023.jpg | Melanoma maligno | Maligno: 89.89% | Benigno: 10.11% | 2.5 ms
+  75. melanoma_5024.jpg | Melanoma maligno | Maligno: 100.00% | Benigno: 0.00% | 2.5 ms
+  76. melanoma_5025.jpg | Melanoma maligno | Maligno: 98.70% | Benigno: 1.30% | 2.5 ms
+  77. melanoma_5026.jpg | Melanoma maligno | Maligno: 97.37% | Benigno: 2.63% | 2.5 ms
+  78. melanoma_5027.jpg | Melanoma maligno | Maligno: 96.52% | Benigno: 3.48% | 2.5 ms
+  79. melanoma_5028.jpg | Melanoma maligno | Maligno: 99.98% | Benigno: 0.02% | 2.5 ms
+  80. melanoma_5029.jpg | Melanoma maligno | Maligno: 99.81% | Benigno: 0.19% | 2.5 ms
+  81. melanoma_5030.jpg | Melanoma maligno | Maligno: 99.33% | Benigno: 0.67% | 2.5 ms
+  82. melanoma_5031.jpg | Melanoma maligno | Maligno: 96.26% | Benigno: 3.74% | 2.5 ms
+  83. melanoma_5032.jpg | Melanoma maligno | Maligno: 87.56% | Benigno: 12.44% | 2.5 ms
+  84. melanoma_5033.jpg | Melanoma maligno | Maligno: 99.81% | Benigno: 0.19% | 2.5 ms
+  85. melanoma_5034.jpg | Melanoma benigno | Maligno: 24.75% | Benigno: 75.25% | 2.5 ms
+  86. melanoma_5035.jpg | Melanoma maligno | Maligno: 99.03% | Benigno: 0.97% | 2.5 ms
+  87. melanoma_5036.jpg | Melanoma benigno | Maligno: 6.73% | Benigno: 93.27% | 2.5 ms
+  88. melanoma_5037.jpg | Melanoma maligno | Maligno: 81.33% | Benigno: 18.67% | 2.5 ms
+  89. melanoma_5038.jpg | Melanoma maligno | Maligno: 50.06% | Benigno: 49.94% | 2.5 ms
+  90. melanoma_5039.jpg | Melanoma maligno | Maligno: 99.73% | Benigno: 0.27% | 2.5 ms
+  91. melanoma_5040.jpg | Melanoma maligno | Maligno: 100.00% | Benigno: 0.00% | 2.5 ms
+  92. melanoma_5041.jpg | Melanoma maligno | Maligno: 64.93% | Benigno: 35.07% | 2.5 ms
+  93. melanoma_5042.jpg | Melanoma maligno | Maligno: 99.70% | Benigno: 0.30% | 2.5 ms
+  94. melanoma_5043.jpg | Melanoma maligno | Maligno: 88.18% | Benigno: 11.82% | 2.5 ms
+  95. melanoma_5044.jpg | Melanoma maligno | Maligno: 99.90% | Benigno: 0.10% | 2.5 ms
+  96. melanoma_5045.jpg | Melanoma maligno | Maligno: 92.35% | Benigno: 7.65% | 2.5 ms
+  97. melanoma_5046.jpg | Melanoma maligno | Maligno: 100.00% | Benigno: 0.00% | 2.5 ms
+  98. melanoma_5047.jpg | Melanoma maligno | Maligno: 84.75% | Benigno: 15.25% | 2.5 ms
+  99. melanoma_5048.jpg | Melanoma maligno | Maligno: 54.05% | Benigno: 45.95% | 2.5 ms
+  100. melanoma_5049.jpg | Melanoma maligno | Maligno: 97.60% | Benigno: 2.40% | 2.5 ms

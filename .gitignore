@@ -1,0 +1,11 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+*.pyc
+.env
+
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+
+melanoma_cancer_dataset/
